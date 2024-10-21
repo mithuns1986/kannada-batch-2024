@@ -1,25 +1,20 @@
 #This contains all the commands executed today.
-1  git
-    2  git status
-    3  git config --global user.name "Dr Devops"
-    4  git config --global user.email "mithuns@live.com"
-
-    3  find / -type d -name *.git
-    4  git clone git@github.com:mithuns1986/kannada-batch-2024.git
-    5  ssh-keygen -t rsa
-    6  cat /root/.ssh/id_rsa.pub
-    7  git clone git@github.com:mithuns1986/kannada-batch-2024.git
-    8  ls
-    9  cd kannada-batch-2024/
-   10  git branch
-   11  ls
-   12  cat README.md
-
-
-   24  git commit -m "Added git commands"
-   25  git status
-   26  git log
-   27  git config --global --edit
-   28  git commit --amend --reset-author
-   29  git log
-
+git
+git status
+git config --global user.name "Dr Devops"
+git config --global user.email "mithuns@live.com
+git clone git@github.com:mithuns1986/kannada-batch-2024.git
+ssh-keygen -t rsa
+cat /root/.ssh/id_rsa.pub
+git clone git@github.com:mithuns1986/kannada-batch-2024.git
+ls
+cd kannada-batch-2024/
+git branch
+ls
+cat README.md
+git commit -m "Added git commands"
+git status
+git log
+git config --global --edit
+git commit --amend --reset-author
+git log
