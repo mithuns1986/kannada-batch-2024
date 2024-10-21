@@ -18,3 +18,35 @@ git log
 git config --global --edit
 git commit --amend --reset-author
 git log
+
+git status
+git fetch
+git status
+git pull
+git log
+cat GitCommands
+rm GitCommands
+git status
+git restore GitCommands
+git status
+git branch akarsh
+git checkout akarsh
+ls
+git checkout -b abhilash
+git branch
+git status
+rm GitCommands
+git status
+git add .
+git commit -m"deleted"
+git status
+git push origin abhilash
+ls
+git status
+git checkout main
+git branch -d abhilash
+git branch -D abhilash
+git branch
+history
+history|cut -c 8-
+
