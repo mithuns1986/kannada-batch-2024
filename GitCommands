@@ -1,0 +1,17 @@
+#This contains all the commands executed today.
+1  git
+    2  git status
+    3  git config --global user.name "Dr Devops"
+    4  git config --global user.email "mithuns@live.com"
+
+    3  find / -type d -name *.git
+    4  git clone git@github.com:mithuns1986/kannada-batch-2024.git
+    5  ssh-keygen -t rsa
+    6  cat /root/.ssh/id_rsa.pub
+    7  git clone git@github.com:mithuns1986/kannada-batch-2024.git
+    8  ls
+    9  cd kannada-batch-2024/
+   10  git branch
+   11  ls
+   12  cat README.md
+
