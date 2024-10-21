@@ -15,3 +15,11 @@
    11  ls
    12  cat README.md
 
+
+   24  git commit -m "Added git commands"
+   25  git status
+   26  git log
+   27  git config --global --edit
+   28  git commit --amend --reset-author
+   29  git log
+
